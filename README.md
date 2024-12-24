@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Peridoritoz
-- 👀 I’m interested in making friends i guess
-- 🌱 I’m currently learning php, html, javascript and a few more
-- 📫 How to reach me ...
+Leonardo Gonçalves
+UEMS - Universidade Estadual De Mato Grosso Do Sul
+Ciência Da Computação
+
 
 <!---
 Peridoritoz/Peridoritoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
