@@ -1,4 +1,3 @@
-Leonardo Gonçalves //
 UEMS - Universidade Estadual De Mato Grosso Do Sul //
 Ciência Da Computação
 
